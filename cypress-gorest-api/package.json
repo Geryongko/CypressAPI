@@ -1,0 +1,17 @@
+{
+  "name": "cypress-gorest-api-automation",
+  "version": "1.0.0",
+  "description": "Cypress API automation project for GoRest public API (GET, POST, PUT, DELETE) using custom commands",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test:api": "cypress run --spec \"cypress/e2e/**/*.cy.js\""
+  },
+  "keywords": ["cypress", "api-testing", "gorest"],
+  "author": "Gery Christopher Ongko",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}

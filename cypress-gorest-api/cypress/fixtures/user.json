@@ -1,0 +1,14 @@
+{
+  "create": {
+    "name": "Gery Christopher Ongko",
+    "email": "gery.qa.placeholder@example.com",
+    "gender": "male",
+    "status": "active"
+  },
+  "update": {
+    "name": "Gery Christopher Ongko Updated",
+    "email": "gery.qa.placeholder@example.com",
+    "gender": "male",
+    "status": "inactive"
+  }
+}
